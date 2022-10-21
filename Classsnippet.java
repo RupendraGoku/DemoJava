@@ -13,7 +13,7 @@ public class Classsnippet {
 
 }*/
 //Statement is not a part of case lable so CompileTime Error
-//Which means System.out.println isme case label nahi hai
+//Which means (System.out.println) isme case label nahi hai
 
 /*package in.ineuron.main;
 
